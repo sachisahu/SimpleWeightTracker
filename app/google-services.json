@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17722008739",
+    "project_id": "simpleweighttracker-8d9b4",
+    "storage_bucket": "simpleweighttracker-8d9b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17722008739:android:fd5f46b7bb23302a584b16",
+        "android_client_info": {
+          "package_name": "com.sachi.simpleweighttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17722008739-in4i6pesuav3n5hl5ad0hd1ttlra12jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4GCGR9lOKe3s6Hqr8BdD-NG9bqtzSw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17722008739-in4i6pesuav3n5hl5ad0hd1ttlra12jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
